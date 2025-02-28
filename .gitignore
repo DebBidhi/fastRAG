@@ -1,0 +1,3 @@
+*.pkl
+hf_cache
+qdrant_storage
